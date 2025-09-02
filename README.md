@@ -61,6 +61,8 @@ By completing these tasks, you will learn:
 
 ## 📝 Your Tasks
 
+### If the task in the main branch is hard for you, then switch to the `with-detailed-description` branch
+
 Complete the implementation of these three practice files:
 
 ### 1. **task_openai_itt.py** - OpenAI-Style Image Analysis
