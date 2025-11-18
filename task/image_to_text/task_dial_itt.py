@@ -73,7 +73,7 @@ def start() -> None:
     print(f"\nResponse: {response.content}\n")
 
     print("=" * 80)
-    print("✅ Image analysis completed successfully!")
+    print("Image analysis completed successfully!")
     print("Note: This approach uploads the image to DIAL bucket and references it via attachment.")
     print("The key benefit is that we can use Models from different vendors (OpenAI, Google, Anthropic).")
     print("The DIAL Core adapts this attachment to Message content in appropriate format for each Model.")
